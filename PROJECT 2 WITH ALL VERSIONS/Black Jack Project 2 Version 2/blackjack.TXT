@@ -1,0 +1,6 @@
+Blackjack Statistics
+You played for 1 round/s.
+You won 1 times.
+You lost 0 times.
+You won 100.00% of the rounds that you played.
+You gained/lost $100.00.

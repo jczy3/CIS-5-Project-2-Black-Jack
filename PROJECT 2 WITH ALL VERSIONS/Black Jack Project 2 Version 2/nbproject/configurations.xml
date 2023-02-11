@@ -8,7 +8,8 @@
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
                    projectFiles="true">
-      <itemPath>../Black Jack Project 2 Version 2/blackjack.TXT</itemPath>
+      <itemPath>blackjack.TXT</itemPath>
+      <itemPath>blackjackinput.TXT</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
@@ -37,10 +38,9 @@
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="../Black Jack Project 2 Version 2/blackjack.TXT"
-            ex="false"
-            tool="3"
-            flavor2="0">
+      <item path="blackjack.TXT" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="blackjackinput.TXT" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
@@ -65,10 +65,9 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="../Black Jack Project 2 Version 2/blackjack.TXT"
-            ex="false"
-            tool="3"
-            flavor2="0">
+      <item path="blackjack.TXT" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="blackjackinput.TXT" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
